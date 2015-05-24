@@ -20,7 +20,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Script description
 
-To creat tidy data set use following steps:
+To create tidy data set use following steps:
 
 1. Download zip file with original data, and put it to the directory with run_analysis.R script.
 2. Set directory with run_analysis.R script as your working directory in the R.
